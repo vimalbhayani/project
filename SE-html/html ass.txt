@@ -1,0 +1,16 @@
+Define the terms: 
+      Website= a group of World Wide Web pages usually containing links to each other 
+                 and made available online by an individual, company, or organization.
+       
+      webpage = A web page is a document written in hypertext (also known as HTML) that you can see online, 
+                using a web browser. Most web pages include text, photos or videos, and links to other web pages. 
+                A group of many web pages managed by one person or company is a website.
+
+   Web browser =  A software application used to access information on the World Wide Web.
+  
+    Web server  =  A web server is a computer that runs websites.
+
+          html = HTML stands for Hyper Text Markup Language. HTML is the standard markup language for 
+                 creating Web pages. HTML describes the structure of a Web page.
+
+          CSS = The CSS specifications are maintained by the World Wide Web Consortium (W3C).
